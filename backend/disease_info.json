@@ -1,0 +1,206 @@
+{
+  "Apple_Alternaria Blotch": {
+    "symptoms": "Small dark brown to black leaf spots may enlarge, yellow surrounding tissue, and cause premature leaf drop.",
+    "possible_cause": "Alternaria fungi may cause blotch symptoms, especially in warm, humid conditions; confirm locally because leaf-spot diseases overlap.",
+    "treatment": "Remove fallen infected leaves, prune for airflow, and use only an apple-approved fungicide if local advice recommends it.",
+    "prevention": "Keep the canopy open, remove diseased debris, avoid prolonged leaf wetness, and monitor during wet weather."
+  },
+  "Apple_Apple Mosaic Virus": {
+    "symptoms": "Leaves may show pale yellow mottling, irregular mosaic patches or rings; vigor and fruit quality may decline.",
+    "possible_cause": "Apple mosaic virus can spread through infected grafting or propagation material; symptoms vary by cultivar.",
+    "treatment": "There is no curative treatment for infected trees; confirm diagnosis and consult local plant-health services about severely affected trees.",
+    "prevention": "Use certified virus-free nursery and grafting material, clean tools, and never propagate from symptomatic trees."
+  },
+  "Apple_Apple Scab": {
+    "symptoms": "Olive-green to dark velvety spots appear on leaves; fruit may develop rough, scabby or cracked lesions, and leaves may drop early.",
+    "possible_cause": "Venturia inaequalis survives in infected fallen leaves and spreads during wet spring weather.",
+    "treatment": "Remove infected fallen leaves and fruit; use an apple-labeled scab program only as recommended locally.",
+    "prevention": "Use resistant cultivars where suitable, manage leaf litter, prune for airflow, and follow local disease-risk guidance."
+  },
+  "Apple_Black Rot": {
+    "symptoms": "On leaves, black rot can appear as small purple to brown spots that enlarge and may develop into circular lesions. Infected tissue can darken, and severe infections may contribute to leaf damage. Black rot can also affect fruit and woody tissues.",
+    "possible_cause": "Black rot is caused by the fungus Diplodia seriata, formerly known as Botryosphaeria obtusa. The fungus can survive in dead wood, cankers, and mummified fruit and can enter through wounds.",
+    "treatment": "Remove and properly dispose of mummified fruit, dead branches, twigs, and cankers that can act as sources of fungal inoculum. Prune affected woody tissue and use appropriate fungicides according to the product label and local recommendations.",
+    "prevention": "Maintain good orchard sanitation, remove dead wood and mummified fruit, prune out cankers, reduce plant stress, and avoid conditions that allow prolonged moisture on plant tissues. Follow a locally recommended disease-management and fungicide program."
+  },
+  "Apple_Brown Spot": {
+    "symptoms": "Brown or reddish spots may appear on leaves, sometimes with pale centers; severe cases can cause yellowing and early leaf drop.",
+    "possible_cause": "This label can refer to different fungal leaf-spot diseases; the precise pathogen varies by region and requires confirmation.",
+    "treatment": "Remove infected debris and reduce leaf wetness; seek local diagnosis before choosing a fungicide.",
+    "prevention": "Maintain orchard sanitation and airflow, avoid overhead irrigation when practical, and monitor during wet periods."
+  },
+  "Apple_Cedar Apple Rust": {
+    "symptoms": "Bright yellow-orange spots appear on leaves; later, raised structures may form underneath and fruit can develop orange lesions.",
+    "possible_cause": "Gymnosporangium juniperi-virginianae requires apple and certain juniper or red cedar hosts to complete its life cycle.",
+    "treatment": "Established lesions cannot be cured; use preventive management only according to local extension recommendations and product labels.",
+    "prevention": "Choose resistant cultivars where available and manage nearby infected junipers where feasible and locally advised."
+  },
+  "Apple_Grey Spot": {
+    "symptoms": "Small gray or tan spots with darker margins may develop, merge, and cause premature leaf drop.",
+    "possible_cause": "The name may describe different leaf-spot pathogens by region; confirm the cause before assigning a specific organism.",
+    "treatment": "Remove infected fallen leaves, improve airflow, and obtain local diagnosis before using fungicides.",
+    "prevention": "Remove diseased debris, reduce prolonged leaf wetness, and monitor new growth during wet weather."
+  },
+  "Apple_Healthy": {
+    "symptoms": "No major visible disease symptoms detected.",
+    "possible_cause": "The leaf appears healthy based on the current AI prediction.",
+    "treatment": "No disease-specific treatment is indicated.",
+    "prevention": "Maintain proper watering, nutrition, sunlight, spacing, and regular monitoring."
+  },
+  "Apple_Powdery Mildew": {
+    "symptoms": "White or gray powdery growth affects young leaves and shoots; leaves may curl, become narrow, and shoots may be stunted.",
+    "possible_cause": "Podosphaera leucotricha persists in infected buds and spreads in humid conditions.",
+    "treatment": "Prune out infected shoots where practical; use only an apple-labeled mildew treatment recommended locally.",
+    "prevention": "Use resistant cultivars where available, remove infected shoots, avoid excess nitrogen, and inspect young growth."
+  },
+  "Cherry_Healthy": {
+    "symptoms": "No major visible disease symptoms detected.",
+    "possible_cause": "The leaf appears healthy based on the current AI prediction.",
+    "treatment": "No disease-specific treatment is indicated.",
+    "prevention": "Maintain proper watering, nutrition, sunlight, spacing, and regular monitoring."
+  },
+  "Cherry_Powdery Mildew": {
+    "symptoms": "White powdery patches may appear on young leaves and shoots; leaves can curl or distort and shoot growth may be reduced.",
+    "possible_cause": "Powdery mildew fungi, often Podosphaera species on cherry, are favored by humid air and dense growth.",
+    "treatment": "Prune heavily affected shoots where practical; use a cherry-labeled product only if local guidance recommends it.",
+    "prevention": "Maintain an open canopy, avoid excess nitrogen, remove infected shoots, and monitor young growth."
+  },
+  "Grape_Black Measles": {
+    "symptoms": "Leaves may show interveinal yellowing or red discoloration with green veins and scorched margins; berries may develop dark spots or decay.",
+    "possible_cause": "Grapevine measles is part of the esca trunk-disease complex associated with several wood-inhabiting fungi.",
+    "treatment": "There is no reliably curative foliar spray; mark symptomatic vines and consult a viticulture specialist about trunk-disease management.",
+    "prevention": "Use healthy planting material, protect pruning wounds according to local guidance, remove dead wood, and monitor vines."
+  },
+  "Grape_Black Rot": {
+    "symptoms": "Grape leaves develop reddish-brown circular spots that enlarge as the disease progresses. Lesions may develop tan to brown centers with small black pycnidia in or around the center. Black rot can also cause dark, shriveled grape berries that become hard mummies.",
+    "possible_cause": "Grape black rot is caused by the fungus Guignardia bidwellii. The pathogen can survive in mummified berries, old fruit clusters, and infected cane tissue, with spores spreading during wet spring conditions.",
+    "treatment": "Remove and properly dispose of mummified berries, infected leaves, and diseased plant material. Use an appropriate fungicide program according to the product label and local agricultural recommendations, especially during periods when new infections are likely.",
+    "prevention": "Maintain good vineyard sanitation by removing mummified fruit and infected plant material. Keep the canopy open to improve airflow and reduce prolonged leaf wetness, and follow a locally recommended fungicide management program."
+  },
+  "Grape_Healthy": {
+    "symptoms": "No major visible disease symptoms detected.",
+    "possible_cause": "The leaf appears healthy based on the current AI prediction.",
+    "treatment": "No disease-specific treatment is indicated.",
+    "prevention": "Maintain proper watering, nutrition, sunlight, spacing, and regular monitoring."
+  },
+  "Grape_Leaf Blight": {
+    "symptoms": "Brown or tan leaf lesions may expand and merge, causing leaf drying or early drop; patterns vary with the pathogen.",
+    "possible_cause": "This broad class name can refer to different grape leaf-blight pathogens; it does not identify one organism conclusively.",
+    "treatment": "Remove heavily infected debris, improve canopy airflow, and confirm the cause before selecting a grape-labeled product.",
+    "prevention": "Maintain an open canopy, remove infected debris, reduce prolonged leaf wetness, and follow local vineyard guidance."
+  },
+  "Grape_Powdery Mildew": {
+    "symptoms": "White-gray powdery patches appear on leaves, shoots, or berries; leaves may curl and infected berries can crack.",
+    "possible_cause": "Erysiphe necator causes grape powdery mildew and is favored by warm conditions and dense canopies.",
+    "treatment": "Use a grape-labeled mildew program only when recommended locally and follow the label; remove severely affected tissue where practical.",
+    "prevention": "Open the canopy, monitor early growth, use tolerant cultivars where suitable, and follow local mildew-risk advice."
+  },
+  "Peach_Bacterial Leaf Spot": {
+    "symptoms": "Small water-soaked spots turn dark brown or purple and may drop out, creating a shot-hole appearance; severe cases cause defoliation.",
+    "possible_cause": "Xanthomonas arboricola pv. pruni is spread by rain splash, wet weather, and infected nursery material.",
+    "treatment": "There is no curative treatment for infected leaves; consult local orchard guidance before using any registered product because efficacy and crop safety vary.",
+    "prevention": "Plant clean stock, choose resistant cultivars where available, avoid overhead irrigation, and improve airflow."
+  },
+  "Peach_Healthy": {
+    "symptoms": "No major visible disease symptoms detected.",
+    "possible_cause": "The leaf appears healthy based on the current AI prediction.",
+    "treatment": "No disease-specific treatment is indicated.",
+    "prevention": "Maintain proper watering, nutrition, sunlight, spacing, and regular monitoring."
+  },
+  "Strawberry_Healthy": {
+    "symptoms": "No major visible disease symptoms detected.",
+    "possible_cause": "The leaf appears healthy based on the current AI prediction.",
+    "treatment": "No disease-specific treatment is indicated.",
+    "prevention": "Maintain proper watering, nutrition, sunlight, spacing, and regular monitoring."
+  },
+  "Strawberry_Leaf Scorch": {
+    "symptoms": "Small dark purple or red spots enlarge into irregular brown areas; affected leaves look scorched, dry, and brittle.",
+    "possible_cause": "Diplocarpon earlianum commonly causes strawberry leaf scorch and can spread from infected leaves in splashing water.",
+    "treatment": "Remove heavily affected old leaves and improve airflow; use only a strawberry-labeled fungicide if locally recommended.",
+    "prevention": "Use healthy plants, remove infected debris, reduce leaf wetness, and maintain spacing and airflow."
+  },
+  "Strawberry_Leaf Spot": {
+    "symptoms": "Small purple or reddish spots develop with pale tan or gray centers; severe infection can weaken leaves and reduce vigor.",
+    "possible_cause": "Often associated with Mycosphaerella fragariae (Ramularia tulasnei), though other causes can resemble it.",
+    "treatment": "Remove badly affected leaves, reduce leaf wetness, and use only registered strawberry treatments after confirming the disease.",
+    "prevention": "Plant disease-free stock, use resistant cultivars where available, remove debris, and avoid overhead irrigation where practical."
+  },
+  "Strawberry_Powdery Mildew": {
+    "symptoms": "White powdery growth may appear under leaves; leaf margins can curl upward and become reddish or purplish, and flowers or fruit may be affected.",
+    "possible_cause": "Podosphaera aphanis is favored by moderate temperatures, humid air, and dense growth.",
+    "treatment": "Remove severely affected tissue where practical and use a strawberry-labeled treatment only if local guidance recommends it.",
+    "prevention": "Use tolerant cultivars where available, maintain airflow, avoid excess nitrogen, and inspect leaf undersides."
+  },
+  "Tomato_Alfalfa Mosaic Virus": {
+    "symptoms": "Leaves may show yellow mottling, mosaic patterns, rings, or necrotic streaks; plants may be stunted and fruit quality may decline.",
+    "possible_cause": "Alfalfa mosaic virus can be transmitted by aphids and may persist in infected host plants or plant material.",
+    "treatment": "There is no curative treatment; remove confirmed infected plants where practical and manage host weeds according to local guidance.",
+    "prevention": "Use healthy transplants, manage weed hosts and aphids, clean tools, and monitor plants regularly."
+  },
+  "Tomato_Bacterial Leaf Spot": {
+    "symptoms": "Small water-soaked spots turn dark brown or black, often with yellow halos; leaves may drop and fruit may develop raised scabby lesions.",
+    "possible_cause": "Xanthomonas bacteria can spread through infected seed or transplants, splashing water, and handling wet plants.",
+    "treatment": "Remove severely affected material where practical, avoid wet foliage handling, and seek local advice on registered products; copper may only suppress disease partially.",
+    "prevention": "Use tested seed and clean transplants, rotate away from tomato and pepper, sanitize tools, avoid overhead irrigation, and manage debris."
+  },
+  "Tomato_Early Blight": {
+    "symptoms": "Dark brown circular spots with concentric rings may appear on older leaves. Leaves can yellow and drop as the disease progresses.",
+    "possible_cause": "Early blight is commonly associated with the fungus Alternaria solani and is favored by warm, humid conditions.",
+    "treatment": "Remove severely affected leaves, improve air circulation, avoid overhead watering, and use an appropriate fungicide according to the product label.",
+    "prevention": "Use healthy planting material, avoid prolonged leaf wetness, remove infected plant debris, and practice crop rotation."
+  },
+  "Tomato_Healthy": {
+    "symptoms": "No major visible disease symptoms detected in the uploaded image.",
+    "possible_cause": "The leaf appears healthy based on the current AI prediction.",
+    "treatment": "No disease treatment is indicated. Continue normal crop care and monitor the plant regularly.",
+    "prevention": "Maintain proper watering, nutrition, sunlight, spacing, and regular inspection for early signs of disease."
+  },
+  "Tomato_Late Blight": {
+    "symptoms": "Large irregular water-soaked green-gray lesions turn dark and spread rapidly; pale growth may appear at edges in humid weather, and stems or fruit may be affected.",
+    "possible_cause": "Phytophthora infestans spreads rapidly in cool, wet conditions from infected plants or volunteer hosts.",
+    "treatment": "Act quickly and contact local extension services; use only registered late-blight products according to local alerts and labels.",
+    "prevention": "Use healthy transplants, manage volunteer tomatoes and potatoes, reduce leaf wetness, improve airflow, and monitor regional alerts."
+  },
+  "Tomato_Leaf Mold": {
+    "symptoms": "Pale green or yellow patches form on upper leaf surfaces, with olive-gray fuzzy growth underneath; leaves may brown and die.",
+    "possible_cause": "Passalora fulva (formerly Cladosporium fulvum) is favored by high humidity and poor airflow, especially in greenhouses.",
+    "treatment": "Remove heavily infected leaves, improve ventilation, reduce humidity, and use only a locally recommended tomato-labeled product if needed.",
+    "prevention": "Ventilate protected crops, avoid crowding, water at soil level, remove crop debris, and use resistant cultivars where suitable."
+  },
+  "Tomato_Leaf Mosaic Virus": {
+    "symptoms": "Leaves may show light and dark green mosaic, puckering, narrowing, or distortion; plants may be stunted and fruit quality may decline.",
+    "possible_cause": "The label may refer to Tomato mosaic virus or a related virus spread by infected seed, transplants, hands, tools, or debris.",
+    "treatment": "There is no curative treatment; remove confirmed infected plants where practical and seek diagnosis if the virus identity affects management.",
+    "prevention": "Use certified virus-free seed and transplants, clean hands and tools, remove infected debris, and manage weed hosts."
+  },
+  "Tomato_Powdery Mildew": {
+    "symptoms": "Pale yellow patches and sometimes white powdery growth develop on leaves; leaves can dry and drop as disease progresses.",
+    "possible_cause": "Powdery mildew fungi such as Oidium neolycopersici or Leveillula taurica may be involved, depending on region.",
+    "treatment": "Remove heavily affected leaves where practical, improve airflow, and use only a tomato-labeled treatment recommended locally.",
+    "prevention": "Maintain spacing and airflow, avoid excess nitrogen, inspect foliage regularly, and use resistant varieties where available."
+  },
+  "Tomato_Septoria Leaf Blotch": {
+    "symptoms": "Many small circular spots with gray or tan centers and dark margins appear on lower leaves; tiny black fruiting bodies may be visible, followed by yellowing and leaf drop.",
+    "possible_cause": "Septoria lycopersici survives on infected debris and spreads by splashing water.",
+    "treatment": "Remove infected lower leaves, dispose of diseased debris, water at soil level, and use only locally recommended tomato-labeled fungicides if needed.",
+    "prevention": "Rotate crops, remove volunteer tomatoes and debris, stake plants for airflow, mulch to reduce soil splash, and avoid overhead watering."
+  },
+  "Tomato_Target Spot": {
+    "symptoms": "Brown circular lesions with concentric rings develop on leaves and may also affect stems or fruit; severe infection can cause defoliation.",
+    "possible_cause": "Corynespora cassiicola is favored by warm, humid conditions and prolonged leaf wetness.",
+    "treatment": "Remove heavily infected leaves, improve airflow, and use a registered tomato fungicide only if local guidance recommends it.",
+    "prevention": "Use healthy transplants, rotate crops, remove infected residue, maintain spacing, and monitor in humid weather."
+  },
+  "Tomato_Tomato Leaf Curl Virus": {
+    "symptoms": "Leaves curl upward or inward, become small or yellow, and plants may be stunted with reduced flowering and fruit set.",
+    "possible_cause": "Tomato leaf-curl viruses are commonly transmitted by whiteflies; the specific virus depends on the region.",
+    "treatment": "There is no curative treatment; remove confirmed infected plants where recommended and manage whiteflies with locally approved integrated pest management.",
+    "prevention": "Use resistant varieties where available, protect young plants from whiteflies, remove infected plants and weed hosts, and use insect exclusion where suitable."
+  },
+  "Tomato_Verticillium Wilt": {
+    "symptoms": "Lower leaves yellow in V-shaped patterns or develop dead margins; plants may wilt during warm periods and show vascular discoloration.",
+    "possible_cause": "Soilborne Verticillium dahliae or V. albo-atrum can infect roots and persist in soil.",
+    "treatment": "There is no reliable curative treatment for infected plants; confirm the diagnosis and consult local guidance on resistant varieties and rotation.",
+    "prevention": "Plant resistant varieties, avoid moving infested soil, manage weed hosts, and rotate with non-host crops where locally effective."
+  }
+}

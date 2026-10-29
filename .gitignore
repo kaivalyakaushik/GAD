@@ -1,0 +1,29 @@
+
+# Python environments
+.venv/
+.venv-1/
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# React dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Dataset files
+datasets/
+data/
+*.csv
+*.zip
+
+# Model checkpoints - preserve locally, don't upload yet
+*.pth
+*.pt
+*.ckpt
+
+# Editor files
+.vscode/
