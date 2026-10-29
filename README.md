@@ -90,8 +90,13 @@ The project source code is available in this repository. Model checkpoints and d
 
 GAD is an academic project intended to assist with plant disease identification. Predictions may be incorrect and should not replace expert agricultural advice.
 
-## Author
+## Project Team
 
-**Kaivalya Kaushik**
+This project was developed by:
 
-GitHub: [kaivalyakaushik](https://github.com/kaivalyakaushik)
+1. **Eisha Singh**
+2. **Kataria Khushi Balkrishna**
+3. **Kaivalya Kaushik**
+
+
+
